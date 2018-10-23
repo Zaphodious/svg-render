@@ -1,0 +1,15 @@
+{
+  "name": "svg-render",
+  "version": "1.0.0",
+  "description": "A utility for rendering animated SVGs as static animations",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^1.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zaphodious",
+  "license": "MIT"
+}
